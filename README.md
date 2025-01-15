@@ -1,3 +1,5 @@
+This repository gives a brief explanation and redirects to the L-Airline API project repositories.
+
 ### [JWT-User](https://github.com/LautaroMartVillalba/L-Airline-User-Microservice)
 - User registration.
 - Database communication and resource retrieval.
